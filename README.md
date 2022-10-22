@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvinctk
 - 👀 I’m interested in Python, ...
-- 🌱 I’m currently learning devops, gitops, cloud, microservices 
+- 🌱 I’m currently working and learning Django, devops, gitops, cloud, ... 
 - 💞️ 
 - 📫 How to reach me 
 
